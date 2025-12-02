@@ -1,4 +1,4 @@
-#Introducao a operadores aritimeticos
+#Introducao a operadores aritmeticos
 
 adicao = 10 + 10
 print('Adicao', adicao)

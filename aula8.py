@@ -1,3 +1,5 @@
+#Exercio 1 sobre sobre variavel e tipos de dados
+
 nome = 'Kaue'
 sobrenome = 'Piotto'
 idade = 21

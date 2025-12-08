@@ -25,5 +25,3 @@ else:
 # Avalicao de curto circuito
 print(True and False and True)  
 print(True and 0 and True)
-
-# Uma string vazia e considerada como false
